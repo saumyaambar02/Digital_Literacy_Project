@@ -44,4 +44,16 @@
 
 ---
 
+
+## 💡 Key Learnings
+
+### - Understood importance of digital literacy  
+### - Improved professional communication skills  
+### - Learned safe and responsible use of digital platforms  
+### - Gained hands-on experience with useful tools
+
+---
+
 ⭐ Learn. Build. Grow.
+
+---
