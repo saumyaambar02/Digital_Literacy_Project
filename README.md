@@ -1,11 +1,11 @@
 # 📌 Digital Literacy Project
 
 ## 👩‍💻 Student Details
-- **Name:** Saumya Ambar  
-- **Registration Number:** 25BET10030  
-- **Course:** CSE0001 – Digital Literacy  
-- **Branch:** B.Tech CSE  | 1st Year  
-- **Academic Year :** 2025-2026
+### - **Name:** Saumya Ambar  
+### - **Registration Number:** 25BET10030  
+### - **Course:** CSE0001 – Digital Literacy  
+### - **Branch:** B.Tech CSE  | 1st Year  
+### - **Academic Year :** 2025-2026
 ---
 
 ## 📖 Project Overview
