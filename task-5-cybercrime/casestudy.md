@@ -20,7 +20,7 @@ Instead of sending money, the scammer:
 - Asked the student to scan it to "receive" payment  
 
 The student entered his **UPI PIN**, thinking money would be credited.  
-❌ Instead, ₹15,000 was **debited** from his account.
+Instead, ₹15,000 was **debited** from his account.
 
 The scammer immediately blocked him, and the money was lost.
 
@@ -30,31 +30,31 @@ The scammer immediately blocked him, and the money was lost.
 
 ### 🚨 Steps of the Fraud
 
-1. 📞 The scammer contacts the victim via call, message, or online platform  
-2. 🎭 Pretends to be a buyer, bank official, or customer support  
-3. ⏳ Builds trust or creates urgency (e.g., *"I will pay now"*, *"Account issue"*)  
-4. 🔗 Sends a payment request link or QR code  
-5. 🔐 Victim is asked to enter their UPI PIN  
-6. 💸 Money gets **debited instead of credited**
+1.  The scammer contacts the victim via call, message, or online platform  
+2.  Pretends to be a buyer, bank official, or customer support  
+3.  Builds trust or creates urgency (e.g., *"I will pay now"*, *"Account issue"*)  
+4.  Sends a payment request link or QR code  
+5.  Victim is asked to enter their UPI PIN  
+6.  Money gets **debited instead of credited**
 
 ---
 
 ## 🎯 4. Who is Affected?
 
-- 💰 Financial loss  
-- 🔓 Unauthorized transactions  
-- 🏦 Account compromise  
-- 😟 Stress and difficulty in recovery  
+-  Financial loss  
+-  Unauthorized transactions  
+-  Account compromise  
+-  Stress and difficulty in recovery  
 
 ---
 
 ## ⚠️ 5. Consequences of the Offence
 
-- 💸 Monetary loss  
-- 🚫 Unauthorized withdrawals  
-- 🔓 Bank account breach  
-- 😣 Mental stress and panic  
-- ⏳ Difficulty in recovering money  
+-  Monetary loss  
+-  Unauthorized withdrawals  
+-  Bank account breach  
+-  Mental stress and panic  
+-  Difficulty in recovering money  
 
 ---
 
