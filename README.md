@@ -9,10 +9,11 @@
 ---
 
 ## 📖 Project Overview
-  This project was completed as part of the Digital Literacy course. The aim of this project is to understand how to use digital tools effectively and responsibly.
-  It focuses on important areas like online safety, professional communication, digital identity, and the use of various platforms.
-  Through this project, I performed different tasks such as creating an infographic, building a digital portfolio, exploring coding
-  and collaboration tools, writing professional emails, and studying cybercrime awareness.
+  ### This project was completed as part of the Digital Literacy course. The aim of this project is to understand how 
+ ### to use digital tools effectively and responsibly. It focuses on important areas like online safety, professional 
+ ### communication, digital identity, and the use of various platforms. Through this project, I performed different 
+ ### tasks such as creating an infographic, building a digital portfolio, exploring coding and collaboration tools, 
+ ### writing professional emails, and studying cybercrime awareness.
 
 ---
 
